@@ -1,0 +1,73 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Proposal Draft 1.aux
+The style file: plainnat.bst
+Database file #1: sample-handout.bib
+Warning--string name "april" is undefined
+--line 21 of file sample-handout.bib
+Warning--string name "april" is undefined
+--line 39 of file sample-handout.bib
+Warning--string name "april" is undefined
+--line 48 of file sample-handout.bib
+Warning--string name "april" is undefined
+--line 56 of file sample-handout.bib
+Repeated entry---line 61 of file sample-handout.bib
+ : @book{parrikar
+ :               ,
+I'm skipping whatever remains of this entry
+Warning--string name "april" is undefined
+--line 72 of file sample-handout.bib
+Warning--string name "april" is undefined
+--line 80 of file sample-handout.bib
+Warning--string name "april" is undefined
+--line 88 of file sample-handout.bib
+Warning--empty publisher in bhatkhande
+Warning--empty publisher in IMSLP-petrucci
+Warning--empty publisher in smithsonian
+Warning--empty publisher in sra
+Warning--empty publisher in parrikar
+Warning--empty publisher in deepakraja
+Warning--empty publisher in swarganga
+Warning--empty publisher in ncpa
+You've used 13 entries,
+            2773 wiz_defined-function locations,
+            648 strings with 6035 characters,
+and the built_in function-call counts, 4176 in all, are:
+= -- 317
+> -- 170
+< -- 13
++ -- 64
+- -- 51
+* -- 263
+:= -- 684
+add.period$ -- 46
+call.type$ -- 13
+change.case$ -- 43
+chr.to.int$ -- 13
+cite$ -- 34
+duplicate$ -- 261
+empty$ -- 418
+format.name$ -- 66
+if$ -- 854
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 26
+newline$ -- 80
+num.names$ -- 52
+pop$ -- 162
+preamble$ -- 1
+purify$ -- 43
+quote$ -- 0
+skip$ -- 164
+stack$ -- 0
+substring$ -- 26
+swap$ -- 14
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 78
+warning$ -- 8
+while$ -- 39
+width$ -- 0
+write$ -- 170
+(There was 1 error message)

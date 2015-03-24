@@ -1,0 +1,82 @@
+\begin{thebibliography}{13}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bhatkhande(1990)]{bhatkhande}
+Vishnu~Narayan Bhatkhande.
+\newblock \emph{Hindustani sangeet paddhati}, volume~1.
+\newblock 1990.
+
+\bibitem[Crowdsourced(2014)]{IMSLP-petrucci}
+Crowdsourced.
+\newblock \emph{Petrucci Music Library}.
+\newblock 2014.
+\newblock URL \url{http://imslp.org/}.
+
+\bibitem[Institution(2014)]{smithsonian}
+Smithsonian Institution.
+\newblock \emph{Smithsonian Folkways}.
+\newblock 2014.
+\newblock URL \url{http://www.folkways.si.edu/}.
+
+\bibitem[ITC-SRA(2014)]{sra}
+ITC-SRA.
+\newblock \emph{ITC Sangeet Research Academy}.
+\newblock 2014.
+\newblock URL \url{http://www.itcsra.org/}.
+
+\bibitem[Jairazbhoy(1995)]{jairazbhoy}
+Nazir~Ali Jairazbhoy.
+\newblock \emph{The r{\=a}gs of North Indian music: their structure and
+  evolution}.
+\newblock Popular Prakashan, 1995.
+
+\bibitem[Kauffman(1999)]{kauffman}
+Walter Kauffman.
+\newblock \emph{The ragas of hindustani music}.
+\newblock Nimbus Records with Rotterdam Conservatory of Music, 1999.
+
+\bibitem[Neuman(1990)]{neuman}
+Daniel~M Neuman.
+\newblock \emph{The life of music in North India: The organization of an
+  artistic tradition}.
+\newblock University of Chicago Press, 1990.
+
+\bibitem[Parrikar(2014)]{parrikar}
+Rajan Parrikar.
+\newblock \emph{Rajan Parrikar Music Archive}.
+\newblock 2014.
+\newblock URL \url{http://www.parrikar.org/}.
+
+\bibitem[Raja(2014)]{deepakraja}
+Deepak Raja.
+\newblock \emph{Deepak Raja's World of Hindustani Music}.
+\newblock 2014.
+\newblock URL \url{http://swaratala.blogspot.in/}.
+
+\bibitem[Rao et~al.(1999)Rao, Bor, van~der Meer, and Harvey]{ragaguide}
+Suvarnalata Rao, Joep Bor, Wim van~der Meer, and Jane Harvey.
+\newblock \emph{The raga guide: a survey of 74 hindustani ragas}.
+\newblock Nimbus Records with Rotterdam Conservatory of Music, 1999.
+
+\bibitem[Subramanian(2008)]{mansions}
+Lakshmi Subramanian.
+\newblock \emph{New mansions for music: Performance, pedagogy and criticism}.
+\newblock Berghahn Books, 2008.
+
+\bibitem[Swarganga(2014)]{swarganga}
+Swarganga.
+\newblock \emph{Swarganga Music Resource}.
+\newblock 2014.
+\newblock URL \url{http://www.swarganga.org/}.
+
+\bibitem[van~der Meer and Rao(2014)]{ncpa}
+W~van~der Meer and S~Rao.
+\newblock \emph{Music in Motion}.
+\newblock 2014.
+\newblock URL \url{http://autrimncpa.wordpress.com/}.
+
+\end{thebibliography}
