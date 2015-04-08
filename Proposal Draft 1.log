@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.9.16)  7 APR 2015 17:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.9.16)  8 APR 2015 12:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -733,7 +733,7 @@ e
 [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<fig1.png, id=92, 523.9575pt x 587.19376pt>
+<fig1.png, id=84, 523.9575pt x 587.19376pt>
 File: fig1.png Graphic file (type png)
  <use fig1.png>
 Package pdftex.def Info: fig1.png used on input line 56.
@@ -849,11 +849,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.swargang
 a}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.77 ... look more like databases \cite{swarganga}
+l.83 ... look more like databases \cite{swarganga}
                                                   , and this makes the music...
-
-LaTeX Warning: Marginpar on page 3 moved.
-
 
 LaTeX Warning: Marginpar on page 3 moved.
 
@@ -862,58 +859,67 @@ LaTeX Warning: Marginpar on page 3 moved.
 LaTeX Warning: Marginpar on page 4 moved.
 
 
-LaTeX Warning: Marginpar on page 4 moved.
-
-
-LaTeX Warning: Marginpar on page 4 moved.
-
-
-LaTeX Warning: Marginpar on page 4 moved.
-
-
-LaTeX Warning: Marginpar on page 4 moved.
-
-
-LaTeX Warning: Marginpar on page 4 moved.
-
-<bhatk1.jpg, id=138, 2601.72pt x 1951.29pt>
-File: bhatk1.jpg Graphic file (type jpg)
- <use bhatk1.jpg>
-Package pdftex.def Info: bhatk1.jpg used on input line 85.
-(pdftex.def)             Requested size: 143.98827pt x 107.9912pt.
- [4 <./bhatk1.jpg>] [5]
-Overfull \hbox (3.37976pt too wide) in paragraph at lines 111--115
-[]\T1/pplj/m/n/10 Learning Hin-dus-tani mu-sic on the in-ter-net is a re-cent p
-he-nomenon. 
+Overfull \hbox (1.47981pt too wide) in paragraph at lines 85--86
+[]\T1/pplj/m/n/10 One of the chal-lenges pre-sented in re-ly-ing on self learn-
+ing method- 
  []
 
-LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 8.50006pt on input line 119.
-[6] <threeprong.png, id=162, 742.775pt x 566.115pt>
-File: threeprong.png Graphic file (type png)
- <use threeprong.png>
-Package pdftex.def Info: threeprong.png used on input line 130.
-(pdftex.def)             Requested size: 115.19693pt x 87.79874pt.
 
-<expt1.png, id=165, 676.5275pt x 682.55pt>
+LaTeX Warning: Marginpar on page 4 moved.
+
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+<bhatk1.jpg, id=130, 2601.72pt x 1951.29pt>
+File: bhatk1.jpg Graphic file (type jpg)
+ <use bhatk1.jpg>
+Package pdftex.def Info: bhatk1.jpg used on input line 92.
+(pdftex.def)             Requested size: 143.98827pt x 107.9912pt.
+
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+[4 <./bhatk1.jpg>] [5]
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 8.50006pt on input line 124.
+ [6] <threeprong.png, id=153, 742.775pt x 566.115pt>
+File: threeprong.png Graphic file (type png)
+
+<use threeprong.png>
+Package pdftex.def Info: threeprong.png used on input line 132.
+(pdftex.def)             Requested size: 115.19693pt x 87.79874pt.
+ <expt1.png, id=156, 676.5275pt x 682.55pt>
 File: expt1.png Graphic file (type png)
- <use expt1.png>
-Package pdftex.def Info: expt1.png used on input line 146.
+
+<use expt1.png>
+Package pdftex.def Info: expt1.png used on input line 148.
 (pdftex.def)             Requested size: 115.19395pt x 116.21942pt.
  [7 <./threeprong.png> <./expt1.png>]pdfTeX warning (ext4): destination with th
 e same identifier (name{cite.bhatkhande}) has been already used, duplicate igno
 red
 <to be read again> 
                    \relax 
-l.154 ...of music theory \cite{bhatkhande, kramik}
+l.156 ...of music theory \cite{bhatkhande, kramik}
                                                   . Making this ontology ope...
 
 LaTeX Warning: Marginpar on page 8 moved.
 
-<graph.png, id=177, 243.7908pt x 208.1376pt>
+<graph.png, id=168, 243.7908pt x 208.1376pt>
 File: graph.png Graphic file (type png)
  <use graph.png>
-Package pdftex.def Info: graph.png used on input line 161.
+Package pdftex.def Info: graph.png used on input line 163.
 (pdftex.def)             Requested size: 115.1992pt x 98.35188pt.
 
 
@@ -925,10 +931,10 @@ LaTeX Warning: Marginpar on page 8 moved.
 
 LaTeX Warning: Marginpar on page 8 moved.
 
-<alipi.png, id=178, 807.015pt x 691.58376pt>
+<alipi.png, id=169, 807.015pt x 691.58376pt>
 File: alipi.png Graphic file (type png)
  <use alipi.png>
-Package pdftex.def Info: alipi.png used on input line 175.
+Package pdftex.def Info: alipi.png used on input line 177.
 (pdftex.def)             Requested size: 115.19785pt x 98.72055pt.
  [8 <./graph.png> <./alipi.png>]
 
@@ -943,10 +949,10 @@ LaTeX Warning: Marginpar on page 9 moved.
 
 LaTeX Warning: Marginpar on page 9 moved.
 
-<audioanno.png, id=193, 963.6pt x 722.7pt>
+<audioanno.png, id=183, 963.6pt x 722.7pt>
 File: audioanno.png Graphic file (type png)
  <use audioanno.png>
-Package pdftex.def Info: audioanno.png used on input line 209.
+Package pdftex.def Info: audioanno.png used on input line 211.
 (pdftex.def)             Requested size: 115.2006pt x 86.40045pt.
  [9 <./audioanno.png>]
 
@@ -956,13 +962,13 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.alipi})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.218 ...avigate to the Alipi website \cite{alipi}
+l.220 ...avigate to the Alipi website \cite{alipi}
                                                   , and request for Virtual ...
 
 LaTeX Warning: Marginpar on page 10 moved.
 
 
-Overfull \hbox (36.3046pt too wide) in paragraph at lines 227--233
+Overfull \hbox (36.3046pt too wide) in paragraph at lines 229--235
 \T1/pplj/m/n/10 Another tool in the ATS is the re-story ap-pli-ca-tion (\T1/fvm
 /m/n/10 http://restory.swtr.us\T1/pplj/m/n/10 ). 
  []
@@ -971,13 +977,13 @@ Overfull \hbox (36.3046pt too wide) in paragraph at lines 227--233
 an}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.246 ... performance from the guru. \cite{neuman}
+l.248 ... performance from the guru. \cite{neuman}
                                                    Artists were patronized b...
 pdfTeX warning (ext4): destination with the same identifier (name{cite.newmansi
 ons}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.246 ... musicians of the time \cite{newmansions}
+l.248 ... musicians of the time \cite{newmansions}
                                                   . At the time of reform of...
 
 LaTeX Warning: Marginpar on page 11 moved.
@@ -985,14 +991,14 @@ LaTeX Warning: Marginpar on page 11 moved.
 
 LaTeX Warning: Marginpar on page 11 moved.
 
-LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 256.
-[11]
-LaTeX Font Info:    Try loading font information for TS1+pplj on input line 317
+LaTeX Font Info:    Try loading font information for TS1+pplj on input line 256
 .
- (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ts1pplj.fd
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
-) [12]
+) [11]
+LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10> not available
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 284.
+ [12]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1153,61 +1159,40 @@ ed, duplicate ignored
                    \relax 
 l.164 ...harton and (Eds.)(2015)]{openmusictheory}
                                                   ) [17] [18] [19]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 638.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 598.
  [20]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 638.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 598.
 
 (./Proposal Draft 1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 638.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 638.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 598.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 598.
+Package rerunfilecheck Info: File `"Proposal Draft 1".out' has not changed.
+(rerunfilecheck)             Checksum: 53280CEEAE30F599FC1D4ED9CEE3A0BA;3019.
 
-
-Package rerunfilecheck Warning: File `"Proposal Draft 1".out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"Proposal Draft 1".out':
-(rerunfilecheck)             Before: 339EF6C0D24C3EF7C82E04A30EDA1CCB;3517
-(rerunfilecheck)             After:  970605F5C76F8DC115C404B8CFADFCE7;3020.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 638.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 598.
  ) 
 Here is how much of TeX's memory you used:
- 13768 strings out of 493117
- 193474 string characters out of 6135433
- 393691 words of memory out of 5000000
- 16852 multiletter control sequences out of 15000+600000
+ 13760 strings out of 493117
+ 193393 string characters out of 6135433
+ 393713 words of memory out of 5000000
+ 16849 multiletter control sequences out of 15000+600000
  62494 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,12n,45p,1796b,494s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section*.38} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.37} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.24} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.18} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.13} has been referenced but does not exist
-, replaced by a fixed one
-
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/201
-4/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2014/texmf
--dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2014/texmf-dist/fo
-nts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/typ
-e1/urw/palatino/uplr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/
-palatino/uplri8a.pfb>
-Output written on "Proposal Draft 1.pdf" (20 pages, 1440679 bytes).
+ 40i,11n,45p,1501b,494s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2014/tex
+mf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2014/texmf-dist/
+fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/t
+ype1/urw/palatino/uplr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/ur
+w/palatino/uplri8a.pfb>
+Output written on "Proposal Draft 1.pdf" (20 pages, 1436186 bytes).
 PDF statistics:
- 366 PDF objects out of 1000 (max. 8388607)
- 322 compressed objects within 4 object streams
- 127 named destinations out of 1000 (max. 500000)
- 1220 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 354 PDF objects out of 1000 (max. 8388607)
+ 310 compressed objects within 4 object streams
+ 122 named destinations out of 1000 (max. 500000)
+ 1204 words of extra memory for PDF output out of 10000 (max. 10000000)
 
