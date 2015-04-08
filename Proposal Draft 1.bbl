@@ -1,31 +1,58 @@
-\begin{thebibliography}{13}
+\begin{thebibliography}{26}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Bhatkhande(1990)]{bhatkhande}
+\bibitem[Academy(2015)]{sma}
+Shankar~Mahadevan Academy.
+\newblock \emph{Shankar Mahadevan Academy}.
+\newblock January 2015.
+\newblock URL \url{http://www.shankarmahadevanacademy.com/}.
+
+\bibitem[Akkermans et~al.(2011)Akkermans, Font, Funollet, De~Jong, Roma,
+  Togias, and Serra]{akkermans2011freesound}
+Vincent Akkermans, Frederic Font, Jordi Funollet, Bram De~Jong, Gerard Roma,
+  Stelios Togias, and Xavier Serra.
+\newblock Freesound 2: An improved platform for sharing audio clips.
+\newblock In \emph{Late-braking demo abstract of the Int. Soc. for Music
+  Information Retrieval Conf}, 2011.
+
+\bibitem[Bhatkhande(1990{\natexlab{a}})]{bhatkhande}
 Vishnu~Narayan Bhatkhande.
 \newblock \emph{Hindustani sangeet paddhati}, volume~1.
-\newblock 1990.
+\newblock 1990{\natexlab{a}}.
+
+\bibitem[Bhatkhande(1990{\natexlab{b}})]{kramik}
+Vishnu~Narayan Bhatkhande.
+\newblock \emph{Kramik Pustak Malika}, volume 1-6.
+\newblock Sangeet Karyalay, Hathras, 1990{\natexlab{b}}.
 
 \bibitem[Crowdsourced(2014)]{IMSLP-petrucci}
 Crowdsourced.
 \newblock \emph{Petrucci Music Library}.
-\newblock 2014.
+\newblock April 2014.
 \newblock URL \url{http://imslp.org/}.
+
+\bibitem[Dinesh et~al.(2012)Dinesh, Uskudarli, Sastry, Aggarwal, and
+  Choppella]{dinesh2012alipi}
+TB~Dinesh, S~Uskudarli, Subramanya Sastry, Deepti Aggarwal, and Venkatesh
+  Choppella.
+\newblock Alipi: A framework for re-narrating web pages.
+\newblock In \emph{Proceedings of the International Cross-Disciplinary
+  Conference on Web Accessibility}, page~22. ACM, 2012.
 
 \bibitem[Institution(2014)]{smithsonian}
 Smithsonian Institution.
 \newblock \emph{Smithsonian Folkways}.
-\newblock 2014.
+\newblock April 2014.
 \newblock URL \url{http://www.folkways.si.edu/}.
 
 \bibitem[ITC-SRA(2014)]{sra}
 ITC-SRA.
 \newblock \emph{ITC Sangeet Research Academy}.
-\newblock 2014.
+\newblock April 2014.
 \newblock URL \url{http://www.itcsra.org/}.
 
 \bibitem[Jairazbhoy(1995)]{jairazbhoy}
@@ -39,6 +66,25 @@ Walter Kauffman.
 \newblock \emph{The ragas of hindustani music}.
 \newblock Nimbus Records with Rotterdam Conservatory of Music, 1999.
 
+\bibitem[Kuuskankare and Laurson(2010)]{kuuskankare2010pwgl}
+Mika Kuuskankare and Mikael Laurson.
+\newblock Pwgl, towards an open and intelligent learning environment for higher
+  music education.
+\newblock In \emph{Sustaining TEL: From Innovation to Learning and Practice},
+  pages 518--523. Springer, 2010.
+
+\bibitem[Lou et~al.(2009)Lou, Zhu, Tseng, Guo, and Shih]{lou2009study}
+Shi-Jer Lou, Yi-Zhen Zhu, Kuo-Hung Tseng, Yuan-Chang Guo, and Ru-Chu Shih.
+\newblock A study of computer-assisted instruction on music appreciation: An
+  example of chinese musical instruments.
+\newblock In \emph{Advanced Learning Technologies, 2009. ICALT 2009. Ninth IEEE
+  International Conference on}, pages 83--85. IEEE, 2009.
+
+\bibitem[musictheory.net LLC(2015)]{eartr}
+musictheory.net LLC.
+\newblock Musictheory.net, 2015.
+\newblock URL \url{http://www.musictheory.net/exercises}.
+
 \bibitem[Neuman(1990)]{neuman}
 Daniel~M Neuman.
 \newblock \emph{The life of music in North India: The organization of an
@@ -48,13 +94,21 @@ Daniel~M Neuman.
 \bibitem[Parrikar(2014)]{parrikar}
 Rajan Parrikar.
 \newblock \emph{Rajan Parrikar Music Archive}.
-\newblock 2014.
+\newblock April 2014.
 \newblock URL \url{http://www.parrikar.org/}.
+
+\bibitem[Prasad et~al.(2014)Prasad, Dinesh, and
+  Choppella]{prasad2014overcoming}
+Gollapudi Vrj~Sai Prasad, TB~Dinesh, and Venkatesh Choppella.
+\newblock Overcoming the new accessibility challenges using the sweet
+  framework.
+\newblock In \emph{Proceedings of the 11th Web for All Conference}, page~22.
+  ACM, 2014.
 
 \bibitem[Raja(2014)]{deepakraja}
 Deepak Raja.
 \newblock \emph{Deepak Raja's World of Hindustani Music}.
-\newblock 2014.
+\newblock April 2014.
 \newblock URL \url{http://swaratala.blogspot.in/}.
 
 \bibitem[Rao et~al.(1999)Rao, Bor, van~der Meer, and Harvey]{ragaguide}
@@ -62,7 +116,13 @@ Suvarnalata Rao, Joep Bor, Wim van~der Meer, and Jane Harvey.
 \newblock \emph{The raga guide: a survey of 74 hindustani ragas}.
 \newblock Nimbus Records with Rotterdam Conservatory of Music, 1999.
 
-\bibitem[Subramanian(2008)]{mansions}
+\bibitem[Servelots(2015)]{alipi}
+Servelots.
+\newblock \emph{Alipi}.
+\newblock January 2015.
+\newblock URL \url{http://alipi.us/}.
+
+\bibitem[Subramanian(2008)]{newmansions}
 Lakshmi Subramanian.
 \newblock \emph{New mansions for music: Performance, pedagogy and criticism}.
 \newblock Berghahn Books, 2008.
@@ -70,13 +130,41 @@ Lakshmi Subramanian.
 \bibitem[Swarganga(2014)]{swarganga}
 Swarganga.
 \newblock \emph{Swarganga Music Resource}.
-\newblock 2014.
+\newblock April 2014.
 \newblock URL \url{http://www.swarganga.org/}.
+
+\bibitem[Tambouratzis et~al.(2008)Tambouratzis, Perifanos, Voulgari, Askenfelt,
+  Granqvist, Hansen, Orlarey, Fober, and Letz]{tambouratzis2008vemus}
+George Tambouratzis, Kostas Perifanos, Iro Voulgari, Anders Askenfelt, Svante
+  Granqvist, Kjetil~Falkenberg Hansen, Yann Orlarey, Dominique Fober, and
+  Stephane Letz.
+\newblock Vemus: An integrated platform to support music tuition tasks.
+\newblock In \emph{Advanced Learning Technologies, 2008. ICALT'08. Eighth IEEE
+  International Conference on}, pages 972--976. IEEE, 2008.
+
+\bibitem[Valente and Lyon(2005)]{ccards}
+Andrea Valente and Kirstin Lyon.
+\newblock C-cards in music education.
+\newblock In \emph{Advanced Learning Technologies, 2005. ICALT 2005. Fifth IEEE
+  International Conference on}, pages 241--242. IEEE, 2005.
 
 \bibitem[van~der Meer and Rao(2014)]{ncpa}
 W~van~der Meer and S~Rao.
 \newblock \emph{Music in Motion}.
-\newblock 2014.
+\newblock April 2014.
 \newblock URL \url{http://autrimncpa.wordpress.com/}.
+
+\bibitem[Wei and Young(2011)]{wei2011investigating}
+Chi-Ting Wei and Shelley~SC Young.
+\newblock Investigating the role and potentials of using web2. 0 in music
+  education from student perspective.
+\newblock In \emph{Advanced Learning Technologies (ICALT), 2011 11th IEEE
+  International Conference on}, pages 344--346. IEEE, 2011.
+
+\bibitem[Wharton and (Eds.)(2015)]{openmusictheory}
+Robin Wharton and Kris~Shaffer (Eds.).
+\newblock Open music theory.
+\newblock January 2015.
+\newblock URL \url{http://openmusictheory.com/}.
 
 \end{thebibliography}

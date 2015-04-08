@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.9.16)  21 OCT 2014 09:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.9.16)  7 APR 2015 17:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -730,52 +730,45 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-<fig1.png, id=36, 523.9575pt x 587.19376pt>
+[1
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<fig1.png, id=92, 523.9575pt x 587.19376pt>
 File: fig1.png Graphic file (type png)
  <use fig1.png>
-Package pdftex.def Info: fig1.png used on input line 50.
+Package pdftex.def Info: fig1.png used on input line 56.
 (pdftex.def)             Requested size: 143.99681pt x 161.37573pt.
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 53.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 59.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 53.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 59.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 53.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 59.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 53.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 59.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 53.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 59.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 
-LaTeX Warning: Marginpar on page 1 moved.
-
-
-LaTeX Warning: Marginpar on page 1 moved.
-
-[1
-
-{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./fig1.
-png>]
-
 LaTeX Warning: Marginpar on page 2 moved.
 
 
@@ -787,172 +780,434 @@ LaTeX Warning: Marginpar on page 2 moved.
 
 LaTeX Warning: Marginpar on page 2 moved.
 
-[2]
-
-LaTeX Warning: Marginpar on page 3 moved.
-
-<bhatk1.jpg, id=58, 2601.72pt x 1951.29pt>
-File: bhatk1.jpg Graphic file (type jpg)
- <use bhatk1.jpg>
-Package pdftex.def Info: bhatk1.jpg used on input line 64.
-(pdftex.def)             Requested size: 143.98827pt x 107.9912pt.
-LaTeX Font Info:    Try loading font information for T1+fvm on input line 72.
-
+LaTeX Font Info:    Try loading font information for T1+fvm on input line 65.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/bera/t1fvm.fd
 File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
 )
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 6.80005pt on input line 72.
+(Font)              scaled to size 6.80005pt on input line 65.
 
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+[2 <./fig1.png>]
+
+LaTeX Warning: Marginpar on page 3 moved.
+
+pdfTeX warning (ext4): destination with the same identifier (name{cite.swargang
+a}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.77 ... look more like databases \cite{swarganga}
+                                                  , and this makes the music...
 
 LaTeX Warning: Marginpar on page 3 moved.
 
 
 LaTeX Warning: Marginpar on page 3 moved.
 
+[3]
 
-LaTeX Warning: Marginpar on page 3 moved.
-
-
-LaTeX Warning: Marginpar on page 3 moved.
+LaTeX Warning: Marginpar on page 4 moved.
 
 
-LaTeX Warning: Marginpar on page 3 moved.
+LaTeX Warning: Marginpar on page 4 moved.
 
 
-LaTeX Warning: Marginpar on page 3 moved.
+LaTeX Warning: Marginpar on page 4 moved.
 
 
-LaTeX Warning: Marginpar on page 3 moved.
+LaTeX Warning: Marginpar on page 4 moved.
 
 
-LaTeX Warning: Marginpar on page 3 moved.
+LaTeX Warning: Marginpar on page 4 moved.
 
-[3 <./bhatk1.jpg>] [4]
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+<bhatk1.jpg, id=138, 2601.72pt x 1951.29pt>
+File: bhatk1.jpg Graphic file (type jpg)
+ <use bhatk1.jpg>
+Package pdftex.def Info: bhatk1.jpg used on input line 85.
+(pdftex.def)             Requested size: 143.98827pt x 107.9912pt.
+ [4 <./bhatk1.jpg>] [5]
+Overfull \hbox (3.37976pt too wide) in paragraph at lines 111--115
+[]\T1/pplj/m/n/10 Learning Hin-dus-tani mu-sic on the in-ter-net is a re-cent p
+he-nomenon. 
+ []
+
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 8.50006pt on input line 119.
+[6] <threeprong.png, id=162, 742.775pt x 566.115pt>
+File: threeprong.png Graphic file (type png)
+ <use threeprong.png>
+Package pdftex.def Info: threeprong.png used on input line 130.
+(pdftex.def)             Requested size: 115.19693pt x 87.79874pt.
+
+<expt1.png, id=165, 676.5275pt x 682.55pt>
+File: expt1.png Graphic file (type png)
+ <use expt1.png>
+Package pdftex.def Info: expt1.png used on input line 146.
+(pdftex.def)             Requested size: 115.19395pt x 116.21942pt.
+ [7 <./threeprong.png> <./expt1.png>]pdfTeX warning (ext4): destination with th
+e same identifier (name{cite.bhatkhande}) has been already used, duplicate igno
+red
+<to be read again> 
+                   \relax 
+l.154 ...of music theory \cite{bhatkhande, kramik}
+                                                  . Making this ontology ope...
+
+LaTeX Warning: Marginpar on page 8 moved.
+
+<graph.png, id=177, 243.7908pt x 208.1376pt>
+File: graph.png Graphic file (type png)
+ <use graph.png>
+Package pdftex.def Info: graph.png used on input line 161.
+(pdftex.def)             Requested size: 115.1992pt x 98.35188pt.
+
+
+LaTeX Warning: Marginpar on page 8 moved.
+
+
+LaTeX Warning: Marginpar on page 8 moved.
+
+
+LaTeX Warning: Marginpar on page 8 moved.
+
+<alipi.png, id=178, 807.015pt x 691.58376pt>
+File: alipi.png Graphic file (type png)
+ <use alipi.png>
+Package pdftex.def Info: alipi.png used on input line 175.
+(pdftex.def)             Requested size: 115.19785pt x 98.72055pt.
+ [8 <./graph.png> <./alipi.png>]
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+<audioanno.png, id=193, 963.6pt x 722.7pt>
+File: audioanno.png Graphic file (type png)
+ <use audioanno.png>
+Package pdftex.def Info: audioanno.png used on input line 209.
+(pdftex.def)             Requested size: 115.2006pt x 86.40045pt.
+ [9 <./audioanno.png>]
+
+LaTeX Warning: Marginpar on page 10 moved.
+
+pdfTeX warning (ext4): destination with the same identifier (name{cite.alipi}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.218 ...avigate to the Alipi website \cite{alipi}
+                                                  , and request for Virtual ...
+
+LaTeX Warning: Marginpar on page 10 moved.
+
+
+Overfull \hbox (36.3046pt too wide) in paragraph at lines 227--233
+\T1/pplj/m/n/10 Another tool in the ATS is the re-story ap-pli-ca-tion (\T1/fvm
+/m/n/10 http://restory.swtr.us\T1/pplj/m/n/10 ). 
+ []
+
+[10]pdfTeX warning (ext4): destination with the same identifier (name{cite.neum
+an}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.246 ... performance from the guru. \cite{neuman}
+                                                   Artists were patronized b...
+pdfTeX warning (ext4): destination with the same identifier (name{cite.newmansi
+ons}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.246 ... musicians of the time \cite{newmansions}
+                                                  . At the time of reform of...
+
+LaTeX Warning: Marginpar on page 11 moved.
+
+
+LaTeX Warning: Marginpar on page 11 moved.
+
 LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 133.
- [5]
-LaTeX Font Info:    Try loading font information for TS1+pplj on input line 190
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 256.
+[11]
+LaTeX Font Info:    Try loading font information for TS1+pplj on input line 317
 .
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ts1pplj.fd
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
-) [6]
+) [12]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[7] [8] (./Proposal Draft 1.bblpdfTeX warning (ext4): destination with the same
- identifier (name{cite.bhatkhande}) has been already used, duplicate ignored
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[13] [14] (./Proposal Draft 1.bblpdfTeX warning (ext4): destination with the sa
+me identifier (name{cite.sma}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.8 \bibitem[Bhatkhande(1990)]{bhatkhande}
-                                          pdfTeX warning (ext4): destination wi
-th the same identifier (name{cite.IMSLP-petrucci}) has been already used, dupli
-cate ignored
+l.8 \bibitem[Academy(2015)]{sma}
+                                pdfTeX warning (ext4): destination with the sam
+e identifier (name{cite.akkermans2011freesound}) has been already used, duplica
+te ignored
 <to be read again> 
                    \relax 
-l.13 \bibitem[Crowdsourced(2014)]{IMSLP-petrucci}
-                                                 
-LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 8.50006pt on input line 17.
-pdfTeX warning (ext4): destination with the same identifier (name{cite.smithson
-ian}) has been already used, duplicate ignored
+l.15   Togias, and Serra]{akkermans2011freesound}
+                                                 pdfTeX warning (ext4): destina
+tion with the same identifier (name{cite.bhatkhande}) has been already used, du
+plicate ignored
 <to be read again> 
                    \relax 
-l.19 \bibitem[Institution(2014)]{smithsonian}
+l.22 ...hatkhande(1990{\natexlab{a}})]{bhatkhande}
+                                                   [15]pdfTeX warning (ext4): d
+estination with the same identifier (name{cite.kramik}) has been already used, 
+duplicate ignored
+<to be read again> 
+                   \relax 
+l.27 ...em[Bhatkhande(1990{\natexlab{b}})]{kramik}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.IMSLP-petrucci}) has been already use
+d, duplicate ignored
+<to be read again> 
+                   \relax 
+l.32 \bibitem[Crowdsourced(2014)]{IMSLP-petrucci}
+                                                 pdfTeX warning (ext4): destina
+tion with the same identifier (name{cite.dinesh2012alipi}) has been already use
+d, duplicate ignored
+<to be read again> 
+                   \relax 
+l.39   Choppella]{dinesh2012alipi}
+                                  pdfTeX warning (ext4): destination with the s
+ame identifier (name{cite.smithsonian}) has been already used, duplicate ignore
+d
+<to be read again> 
+                   \relax 
+l.46 \bibitem[Institution(2014)]{smithsonian}
                                              pdfTeX warning (ext4): destination
  with the same identifier (name{cite.sra}) has been already used, duplicate ign
 ored
 <to be read again> 
                    \relax 
-l.25 \bibitem[ITC-SRA(2014)]{sra}
+l.52 \bibitem[ITC-SRA(2014)]{sra}
                                  pdfTeX warning (ext4): destination with the sa
 me identifier (name{cite.jairazbhoy}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.31 \bibitem[Jairazbhoy(1995)]{jairazbhoy}
+l.58 \bibitem[Jairazbhoy(1995)]{jairazbhoy}
                                            pdfTeX warning (ext4): destination w
 ith the same identifier (name{cite.kauffman}) has been already used, duplicate 
 ignored
 <to be read again> 
                    \relax 
-l.37 \bibitem[Kauffman(1999)]{kauffman}
+l.64 \bibitem[Kauffman(1999)]{kauffman}
                                        pdfTeX warning (ext4): destination with 
-the same identifier (name{cite.neuman}) has been already used, duplicate ignore
-d
+the same identifier (name{cite.kuuskankare2010pwgl}) has been already used, dup
+licate ignored
 <to be read again> 
                    \relax 
-l.42 \bibitem[Neuman(1990)]{neuman}
+l.69 ...re and Laurson(2010)]{kuuskankare2010pwgl}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.lou2009study}) has been already used,
+ duplicate ignored
+<to be read again> 
+                   \relax 
+l.76 ..., Zhu, Tseng, Guo, and Shih]{lou2009study}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.eartr}) has been already used, duplic
+ate ignored
+<to be read again> 
+                   \relax 
+l.83 \bibitem[musictheory.net LLC(2015)]{eartr}
+                                               pdfTeX warning (ext4): destinati
+on with the same identifier (name{cite.neuman}) has been already used, duplicat
+e ignored
+<to be read again> 
+                   \relax 
+l.88 \bibitem[Neuman(1990)]{neuman}
                                    pdfTeX warning (ext4): destination with the 
 same identifier (name{cite.parrikar}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.48 \bibitem[Parrikar(2014)]{parrikar}
-                                        [9]pdfTeX warning (ext4): destination w
-ith the same identifier (name{cite.deepakraja}) has been already used, duplicat
-e ignored
+l.94 \bibitem[Parrikar(2014)]{parrikar}
+                                       pdfTeX warning (ext4): destination with 
+the same identifier (name{cite.prasad2014overcoming}) has been already used, du
+plicate ignored
 <to be read again> 
                    \relax 
-l.54 \bibitem[Raja(2014)]{deepakraja}
-                                     pdfTeX warning (ext4): destination with th
-e same identifier (name{cite.ragaguide}) has been already used, duplicate ignor
-ed
+l.101   Choppella]{prasad2014overcoming}
+                                        pdfTeX warning (ext4): destination with
+ the same identifier (name{cite.deepakraja}) has been already used, duplicate i
+gnored
 <to be read again> 
                    \relax 
-l.60 ... Bor, van~der Meer, and Harvey]{ragaguide}
+l.108 \bibitem[Raja(2014)]{deepakraja}
+                                       [16]pdfTeX warning (ext4): destination w
+ith the same identifier (name{cite.ragaguide}) has been already used, duplicate
+ ignored
+<to be read again> 
+                   \relax 
+l.114 ...Bor, van~der Meer, and Harvey]{ragaguide}
                                                   pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.mansions}) has been already used, dup
-licate ignored
+ation with the same identifier (name{cite.alipi}) has been already used, duplic
+ate ignored
 <to be read again> 
                    \relax 
-l.65 \bibitem[Subramanian(2008)]{mansions}
+l.119 \bibitem[Servelots(2015)]{alipi}
+                                      pdfTeX warning (ext4): destination with t
+he same identifier (name{cite.newmansions}) has been already used, duplicate ig
+nored
+<to be read again> 
+                   \relax 
+l.125 \bibitem[Subramanian(2008)]{newmansions}
+                                              pdfTeX warning (ext4): destinatio
+n with the same identifier (name{cite.swarganga}) has been already used, duplic
+ate ignored
+<to be read again> 
+                   \relax 
+l.130 \bibitem[Swarganga(2014)]{swarganga}
                                           pdfTeX warning (ext4): destination wi
-th the same identifier (name{cite.swarganga}) has been already used, duplicate 
-ignored
+th the same identifier (name{cite.tambouratzis2008vemus}) has been already used
+, duplicate ignored
 <to be read again> 
                    \relax 
-l.70 \bibitem[Swarganga(2014)]{swarganga}
-                                         pdfTeX warning (ext4): destination wit
-h the same identifier (name{cite.ncpa}) has been already used, duplicate ignore
-d
+l.137 ..., Fober, and Letz]{tambouratzis2008vemus}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.ccards}) has been already used, dupli
+cate ignored
 <to be read again> 
                    \relax 
-l.76 \bibitem[van~der Meer and Rao(2014)]{ncpa}
-                                               ) [10] [11]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 511.
- [12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 511.
+l.145 \bibitem[Valente and Lyon(2005)]{ccards}
+                                              pdfTeX warning (ext4): destinatio
+n with the same identifier (name{cite.ncpa}) has been already used, duplicate i
+gnored
+<to be read again> 
+                   \relax 
+l.151 \bibitem[van~der Meer and Rao(2014)]{ncpa}
+                                                pdfTeX warning (ext4): destinat
+ion with the same identifier (name{cite.wei2011investigating}) has been already
+ used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.157 ...ei and Young(2011)]{wei2011investigating}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.openmusictheory}) has been already us
+ed, duplicate ignored
+<to be read again> 
+                   \relax 
+l.164 ...harton and (Eds.)(2015)]{openmusictheory}
+                                                  ) [17] [18] [19]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 638.
+ [20]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 638.
 
 (./Proposal Draft 1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 511.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 511.
-Package rerunfilecheck Info: File `"Proposal Draft 1".out' has not changed.
-(rerunfilecheck)             Checksum: 66677469E1FE833936FE4B2DB1C7AE17;1335.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 638.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 638.
 
+
+Package rerunfilecheck Warning: File `"Proposal Draft 1".out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"Proposal Draft 1".out':
+(rerunfilecheck)             Before: 339EF6C0D24C3EF7C82E04A30EDA1CCB;3517
+(rerunfilecheck)             After:  970605F5C76F8DC115C404B8CFADFCE7;3020.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 511.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 638.
  ) 
 Here is how much of TeX's memory you used:
- 13631 strings out of 493117
- 191302 string characters out of 6135433
- 387040 words of memory out of 5000000
- 16763 multiletter control sequences out of 15000+600000
+ 13768 strings out of 493117
+ 193474 string characters out of 6135433
+ 393691 words of memory out of 5000000
+ 16852 multiletter control sequences out of 15000+600000
  62494 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,12n,45p,1796b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2
-014/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2014/tex
-mf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2014/texmf-dist/
-fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/t
-ype1/urw/palatino/uplr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/ur
-w/palatino/uplri8a.pfb>
-Output written on "Proposal Draft 1.pdf" (12 pages, 1007753 bytes).
+ 40i,12n,45p,1796b,494s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{section*.38} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.37} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.24} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.18} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.13} has been referenced but does not exist
+, replaced by a fixed one
+
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2014/texmf
+-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2014/texmf-dist/fo
+nts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/typ
+e1/urw/palatino/uplr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/
+palatino/uplri8a.pfb>
+Output written on "Proposal Draft 1.pdf" (20 pages, 1440679 bytes).
 PDF statistics:
- 222 PDF objects out of 1000 (max. 8388607)
- 198 compressed objects within 2 object streams
- 84 named destinations out of 1000 (max. 500000)
- 1099 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 366 PDF objects out of 1000 (max. 8388607)
+ 322 compressed objects within 4 object streams
+ 127 named destinations out of 1000 (max. 500000)
+ 1220 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -12,7 +12,7 @@
 \title{Virtual Labs for Learning, Curating, and Research in Hindustani Classical Music}
 \author{Tejaswinee Kelkar,
  Venkatesh Choppella}
-\date{16 September 2014}
+\date{28 March 2015}
 \usepackage{booktabs}
 \usepackage{color}
 \usepackage{units}
@@ -37,14 +37,20 @@
 \maketitle% this prints the handout title, author, and date
 
 \begin{abstract}
-\noindent This document a proposal for a Virtual Lab for Music. 
+\noindent This document is a proposal for a Virtual Lab for Music. 
 This is a web-based application to provide anybody who is interested in Hindustani music a broad and comprehensive resource containing live experiments to test and hone their abilities; repositories to refer to and obtain material from; and all this in a way that enhances a multi-modal web experience across many domains within music.
 In this document, we describe the motivation behind setting up such a lab, the model of integrating experiments, repositories and semantic connections as a complete way of setting up a learning experience that will benefit not just learners of Hindustani Classical Music (hereafter referred to as HCM), but also will function as a resource for other applications such as computation and cognition of music.
 \end{abstract}
 
 
 \section{Introduction}\label{sec:introduction}
-This report deals with building an on-line learning resource and repository for Hindustani Music. Although there have been some attempts to include musical material on the web, we highlight some ways in which these fall short and propose some new methods to bring up a single resource including experimentation and learning, repositories, and semantic linking. We also explain some implications of this on the field of musical research as a whole.
+
+Research in music and other arts is important from the point of view of science, arts as well as the humanities. Different areas in human cognition are benefited from musical study, as scientists have found from conducting various types of research. Music is closely aligned with mathematics, literature and poetry from the ancient times. It is also an important method for communities coming together. The study and discipline of music has always been interdisciplinary, but in the modern times we find music to have become more isolated from interdisciplinary research in India. Musical education isn't a necessity in the scope of primary education in India; but over the years, the nature of music as well as musical education is changing. Modern technology is slowly reflecting this change by catering to the needs of musicians.
+
+Technology can participate even more to cater to the changing needs of pedagogical construction, and not just information delivery. Our primary motivation behind building this platform is to bring Indian music education to the web. Music education in India has undergone a revolution in the last century. From being a form that required years and years of apprenticeship with gurus, it has become a form in which remote media of content delivery have become more and more popular. Education delivery online is becoming more and more popular on the web with the arrival of digital libraries, MOOCs, and other forms. Musical education is following some of these patterns, with many repositories for material and an increasing number of people taking lessons over video conferencing and so on. Indian music is only catching up with these trends. The repositories for Indian music are non unified and the teaching methods are not innovative. Technology has mostly contributed only to the medium of delivery, and not the pedagogical methods. 
+
+
+We propose an on-line learning resource and repository for Hindustani Music. We propose some new methods to bring up a single resource including experimentation and learning, repositories, and semantic linking. We also explain some implications of this on the field of musical research as a whole. Scientifically informed methods of teaching and learning music could greatly improve and inform musical experiences and diversify musical material. 
 
 \begin{marginfigure}%
   \includegraphics[width=\linewidth]{fig1.png}
@@ -52,60 +58,56 @@ This report deals with building an on-line learning resource and repository for 
   \label{fig:marginfig}
 \end{marginfigure}
 
+
+\subsection{Review of Related Work}
+Music education technology is an upcoming field, with new techniques being tried to address specific challenges \cite{wei2011investigating}, \cite{ccards}, %\cite{phon2005interactivities}, \cite{tambouratzis2008vemus}, \cite{kuuskankare2010pwgl} 
+
+exploring interactivity and openness. Some platforms deal specifically with traditional music education delivery \cite{lou2009study}, while some websites are built for openly introducing music theory in various genres \cite{openmusictheory}. These include sheet music repositories for Western Classical Music \cite{IMSLP-petrucci}, Jazz and Folk collections \cite{smithsonian} and others.  
+
+There are resources that help practice ear training skills \cite{eartr}, or provide databases for compositions from different time periods, lyrics of arias, and other musical material.
+
+Resources for Hindustani Classical music (HCM) are, on the other hand, scattered and disorganised.  Repositories do not cite sources and authors \cite{sra,ncpa}. Popular blogs \cite{parrikar,deepakraja} do not serve as repositories, but merely as opinion delivery, despite careful content aggregation.  Youtube videos form a sizeable chunk of the material available for listeners, although this material is often poorly annotated and described even for basic parameters like composer, raga, taal and other features.  Some websites have repositories skewed towards vocal music alone \cite{swarganga} and keep their services available only for sale.
+
+
 \subsection{Changing Modes of Pedagogy in HCM}\label{sec:pedagogy}
-Hindustani Music traditionally evolved as an art form requiring years and years of guided practise. In ancient times, students of classical music would spend several years with their teachers studying under their scrutinized guidance and slowly absorbing the intricate nuances of the musical performance from the guru. \cite{neuman} Artists were often patronized by princely states and kings and taught students in this system called the \textit{gurukul} system. This started to change towards the end of the 19th century when music reform and education were taken up as a cause by several conferences of music and scholarly musicians of the time.\cite{mansions} At the time of reform of Indian universities, musical education paradigms changed drastically and musical education was restructured to fit the bounds of a degree education. This meant that the years that could be spent on slowly cultivating musicality and other skills needed to be condensed in a much shorter span. The pedagogical methods changed and the restructuring of courses around study material was a huge challenge of the times. As the twentieth century progressed, both these modes of learning - the traditional way and also the way of classes and tuitions - grew side by side.
+Hindustani Music traditionally evolved as an art form requiring years and years of guided practise. In ancient times, students of classical music would spend several years with their teachers studying under their scrutinized guidance and slowly absorbing the intricate nuances of the musical performance from the guru. \cite{neuman} Artists were often patronized by princely states and kings and taught students in this system called the \textit{gurukul} system. This started to change towards the end of the 19th century when music reform and education were taken up as a cause by several conferences of music and scholarly musicians of the time.\cite{newmansions} At the time of reform of Indian universities, musical education paradigms changed drastically and musical education was restructured to fit the bounds of a degree education. This meant that the years that could be spent on slowly cultivating musicality and other skills needed to be condensed in a much shorter span. The pedagogical methods changed and the restructuring of courses around study material was a huge challenge of the times. As the twentieth century progressed, both these modes of learning - the traditional way and also the way of classes and tuitions - grew side by side.
 
-\subsection{Twenty First Century}After several changes in musical education, we now have come to the time when musical content isn't learnt continuously by being around music, but in shorter lessons, which are sometimes conducted with multiple students learning together. Lessons are usually structured to be once in a week, and the students are expected to prepare a lot of material by themselves with un-aided, unaccompanied practise. This means that several critical skills, that earlier were absorbed by students by being around music a lot, are expected to be naturally developed by them either as time passes or through their own practice. This calls for students being able to arrange for their own practise without the presence of other musicians. To support this, several modern electronic instruments have been invented as replacements for accompaniment in the last twenty years, aiding musical practise greatly. Electronic Tanpura, Tabla, Lehra and Shruti box are now commonly seen not just in practise settings but also on the performing stage. Despite this being true, the methods of learning musicological concepts haven't been truly exploited through electronic and computer methods. Having said this, there is no parallel development in music learning applications for students of Hindustani Music. 
+\subsection{Twenty First Century}After several changes in musical education, we now have come to the time when musical content is delivered in these two different ways, depending upon where the student goes to learn. One, where gurukula system is heeded and followed, and students get a chance to spend a large amount of time with their teachers and in learning. And another, where music is studied in shorter non-individual lessons. 
 
-\subsection{Notation and Musicianship at odd angles} V N Bhatkhande developed a comprehensive scheme for notation of classical music in the early 1900s. \cite{bhatkhande} His contemporary, V D Paluskar developed a parallel style of notation which is slightly similar to Bhatkhande's. Since then, there have been several notation systems that extend these and bring out more nuances. Bhatkhande's system remains to be the most popular one and is widely used. This has changed musical study greatly. It is now common practise now for students to write the new compositions they have been taught. Composing new structures on paper first is also exceedingly common. However, there haven't been comprehensive and accessible repositories of such music that are available to everyone. Resource books that contain western notations of HCM have also been produced for reference and learning. \cite{kauffman} \cite{ragaguide} Most of this music is written so long ago that it is sung simultaneously in different ways across several \textit{gharanas} and several different composers at the same time, and all of these renditions and years of practise have lent their own modifications to those compositions.\cite{jairazbhoy} New students of music often learn to compose their own music by writing down, in this form of notation, their own drafts of improvisation and so forth. Several scholars dismiss notation and writing down, saying that Hindustani Music is meant to be assimilated and never written down. Despite this insistence, it is important to acknowledge the social changes that have led to a changing lifestyle for musicians and music learners, who devote time and resource towards the study of music a lot differently than what they had been doing.
-\paragraph{}Given this background, it is only natural for the development of musicianship to train for these singular skills with drills that are suitable to the constraints of time that they have.
+A large number of students study within the construct of a classroom, learning with many peers. Lessons are usually structured to be once in a week, and the students are expected to prepare a lot of material by themselves with un-aided, unaccompanied practise. This means that several critical skills, that earlier were absorbed by students offline, by listening to music, are now expected to be naturally developed by them through their own practice. This calls for students being able to arrange for their own practise without the presence of other musicians. 
+
+This challenge can be addressed in two ways. Modern electronic instruments have been invented as replacements for accompaniment in the last twenty years, aiding musical practise greatly. Electronic Tanpura, Tabla, Lehra and Shruti box are now commonly seen not just in practise settings but also on the performing stage. 
+
+Unaided practise also requires engaging methods and tools to aid different ways to develop musicianship. However, the methods of learning musicological concepts haven't been truly exploited through electronic and computer methods for Indian Music. There is no comparable development in music learning applications for students of Hindustani Music to the presence of electronic music instruments. 
+
+Music education must condition itself to the available resources of the students from the overwhelming pressure to cope with other disciplines in scholastic education. We see a rise in music study offered over phone calls, internet voice and video calling \cite{sma}. When students are taught in person, the classes are not more than an hour long. These classes are often taught in groups, where teachers' attention to musicianship of individual students is difficult. Rich multimedia technology still needs to enter the purview of education in HCM, as the sources of education and musical creation through technology, using the theoretical advancements of HCM are almost unexplored. Some websites are made to look more like databases \cite{swarganga}, and this makes the musical study non-interactive.
+
+One of the challenges presented in relying on self learning methodology is the relative lack of reliance on notation systems. Self learning is also aided by the creation of repositories for listeners that are organized based on not consumer oriented, but musician oriented classification ontologies. Virtual Lab for HCM aims to bring change to pedagogy in the ways required rather than letting technology just be a medium. 
+
+\subsection{Notation and Repositories} V N Bhatkhande developed a comprehensive scheme for notation of classical music in the early 1900s. \cite{bhatkhande} His contemporary, V D Paluskar developed a parallel style of notation which is slightly similar to Bhatkhande's. Since then, there have been several notation systems that extend these and bring out more nuances. Bhatkhande's system remains to be the most popular one and is widely used. This has changed musical study greatly. It is now common practise now for students to write the new compositions they have been taught. Composing new structures on paper first is also exceedingly common. However, there haven't been comprehensive and accessible repositories of such music that are available to everyone. Resource books that contain western notations of HCM have also been produced for reference and learning. \cite{kauffman} \cite{ragaguide} Most of this music is written so long ago that it is sung simultaneously in different ways across several \textit{gharanas} and several different composers at the same time, and all of these renditions and years of practise have lent their own modifications to those compositions.\cite{jairazbhoy} New students of music often learn to compose their own music by writing down, in this form of notation, their own drafts of improvisation and so forth. 
+
+Several scholars dismiss notation and writing down, saying that Hindustani Music is meant to be assimilated and never written down. Despite this insistence, it is important to acknowledge the social changes that have led to a changing paradigm for musicians and music learners, who study music through passing on written material.
 
 \begin{marginfigure}%
   \includegraphics[width=\linewidth]{bhatk1.jpg}
   \caption{Sections in the Virtual Labs}
   \label{fig:marginfig}
 \end{marginfigure}
-\subsection{On-line Repositories}
-\paragraph{Resources for other genres} There is a
-great deal of resource material available on the web for
-several genres of music, including Western
-Classical\cite{IMSLP-petrucci}, Jazz and
-Folk\cite{smithsonian}.  These include resources and
-websites that help practice ear training skills, or provide
-repositories for compositions from different time periods,
-databases of lyrics of various arias, right up to
-recognising the versions of different compositions and
-publications of musical material.  Sadly, this isn't true
-for Hindustani music.
 
-\paragraph{Web music resources for Hindustani and Carnatic music}
-Currently, the resources on the web for Hindustani music are
-scattered and disorganised \cite{sra,ncpa}.  Descriptions of
-ragas and performances or performers have been blogged
-about\cite{parrikar,deepakraja}.  Youtube videos of
-different performances form a sizeable chunk of the material
-available for listeners.  The material is often poorly
-annotated.  Other sites keep information only available
-behind a pay-wall \cite{swarganga}.  There is a need for
-organising and inter-linking existing material so that
-Hindustani music along with annotations, commentaries and
-other related content are made more openly and widely
-accessible.  There is also a need to create repositories for
-listeners so that they can self-learn to listen to classical
-music and appreciate the nuances of this style.
-%
-\subsection{Cultivation of Musicianship skills} Critical musicianship abilities are a prerequisite for becoming a learned singer in HCM. These include the ability to identify notes and note names from hearing music. A musician is expected to be able to identify and notate rhythm, to be able to work with laya, to be able to be a good presenter and so forth. All proficient performers are expected to be comfortable with these skills, although there is no systematic method to cultivate them. Skills like swara identification and being able to notate and identify musical patterns, although required, is a hard skill to develop on your own. For vocalists who don't play an instrument, for instrumentalists who don't sing or aren't required to notate, this task is challenging. Without guidance, through pure listening, these skills take years to come to grips with \textit{Swar-Jnyan} (Knowledge of pitch). Another area that is typically required and often very hard to develop is the proper knowledge of intonation. Hindustani Music uses microtonal scales, and something as simple as tuning a \textit{Tanpura} requires immense expertise and very finely developed ears. It typically takes students years to master this if they are taught. If they are never taught these skills, which happens many a times in tuition-class like model of teaching Hindustani music, these skills remain undeveloped. This challenge is faced by several new students who study music using new methods such as reading from texts, learning with teachers over the internet and so forth. These abilities need to be developed and taught in new way. 
+
+\subsection{Cultivation of Musicianship skills} Critical musicianship abilities are a prerequisite for becoming a learned singer in HCM, just as other systems of classical music. These include the ability to identify notes and note names from hearing music. A musician is expected to be able to identify and notate rhythm, to be able to work with laya, to be able to be a good presenter and so forth. All proficient performers are expected to be comfortable with these skills. For vocalists who don't play an instrument, for instrumentalists who don't sing or aren't required to notate, this task is challenging. Without guidance, through pure listening, these skills take years to come to grips with \textit{Swar-Jnyan} (Knowledge of pitch). Another area that is typically required and often very hard to develop is the proper knowledge of intonation. Hindustani Music uses microtonal scales, and something as simple as tuning a \textit{Tanpura} requires immense expertise and very finely developed ears. It typically takes students years to master this if they are taught. If they are never taught these skills, which happens many a times in tuition-class like model of teaching Hindustani music, these skills remain undeveloped. This challenge is faced by several new students who study music using new methods such as reading from texts, learning with teachers over the internet and so forth. These abilities need to be developed and taught in new way. 
 
 \subsection{Propositions for Novel Methods to introduce musical material}
-We propose a drill-based practice approach towards learning these critical skills of musicality.
-Ours is a tripartite approach towards archiving, learning and distribution of classical music. This includes both musicians and non-musicians being able to experiment with music in all capacities. The experiments will enable musicians to be able to engage with experiments to hone their musical skills as well as understand finer and finer nuances of musical listening. 
-\paragraph{Power of Drilling} Battery of tests and a system adapting to the ability level of the student is what is needed in such a case, for teaching these specific skills to students. 
+We take a tripartite approach towards archiving, learning and distribution of classical music. This includes both musicians and non-musicians being able to experiment with music in all capacities. The experiments will enable musicians to be able to engage with experiments to hone their musical skills as well as understand finer and finer nuances of musical listening. 
+\paragraph{Power of Drilling} We propose a drill-based practice approach towards learning these critical skills of musicality. Battery of tests and a system adapting to the ability level of the student is what is needed in such a case, for teaching these specific skills to students. 
 
 \section{Computational and Cognitive Aspects of HCM}
 Computational research in musical creation and cognition have become established fields for study of music in pedagogy, therapy and for its cognitive effects. This approach towards the study of music is becoming popular even for Hindustani music, and has tremendous applications for use in pedagogical, and educational contexts. The forms and function of music beyond its aesthetic value, its contribution to other cognitive systems such as visuo-spatial abilities, language learning potential and so on. Systematic studies regarding Hindustani music could become easier after systematizing the methodology for musical categories, and ease in recording and analysing the performance of a general population in different music-related abilities.  
-Research work with regards to these various aspects of cognition and computation could be carried out easily through such a lab. Some
-examples are: understanding the generation of mood of
-\emph{rasa} or \emph{raga} becoming alive, pedagogical
+
+Virtual lab for HCM also aims at being a platform from which research work with regards to these various aspects of cognition and computation could be carried out easily. Facilitating this, will be the base ontologies that classify and categorize different sound stimuli through annotation, and other methods. This will help datasets to be readily available for people to prune and analyze or transform. 
+
+New experiments that require large amounts of data to be collected can also be easily performed on this platform. Some examples are: understanding the generation of mood of
+\emph{rasa} or \emph{raga}, pedagogical
 methods to enhance learning and practice, generative
 structures of raga and so on and so forth. It would also be
 an important task in this project to generate a formal
@@ -114,15 +116,138 @@ understand not only the structures of music, but also
 meta-tag and retrieve more data from the new musical uploads
 that are generated.
 
-\paragraph{Research in pedagogy}
-Learning Hindustani music on the internet is a recent phenomenon. With the help of technology, we can enable a student to access guided practice, simulate drilling and give feedback about
-intonation, provide analysis for practice etc. There is also
-the scope for learning patterns from large data which can be
-mapped to student performance for further anlaysis and
-feedback. This might help us understand the actual context of musical learning and how it can be best adjusted to help most people learn seamlessly.
+These new fields can aid hugely, our understanding of music as a cognitively essential art. 
+
+\subsection{Our Contributions}
+We can classify music education resources in the following general categories: 1. experiments and drills for sharpening skills, 2. repositories for crowdsourcing or hosting information, and 3. linking music and creating opinion based resources. 
+
+Virtual Lab for HCM (\texttt{http://music.virtual-labs.ac.in}) is a platform reflects a mix of all three streams mentioned above. It is an open, interactive and networked self-practicing environment for education in HCM, that enables users to experiment with musical concepts on an on-line platform. It supports musical education by tailoring to a new model of pedagogical delivery that has not been used in the context of HCM before. This includes the creation of several drills and exercises for musicianship skills, visualization alternative descriptions of several aspects of music theory. This platform helps create a community driven architecture that allows users to be contributors of content. Not only can users learn, browse and annotate content from their own musical knowledge, but also share this with other users. Unlike other platforms of this kind, Virtual Lab for HCM can then use the sounds annotated by others in creating and structuring its own experiment stimuli and examples. This  opens up a large volume of musical content to be available as study material - both in the form of audio annotations and descriptions. This feature makes Virtual Lab for HCM unique.
 
 
-\section{Three Fold Approach Structure}
+\section{Virtual Lab for HCM as an Open Architecture}
+
+\subsection{Features of the Open System}
+\begin{marginfigure}
+\centering
+    \includegraphics[width=0.8\textwidth]{threeprong.png}
+\caption{Three pronged structure of the lab}
+\label{fig:opensystem}
+\end{marginfigure}
+
+Virtual Lab for HCM has a three faceted structure for its architecture. The first facet deals with the musicianship skill building - including tests on ear training of pitch, rhythm, notation. The second facet deals with theoretical explorations such as learning concepts of \textit{raga}, \textit{taal}, \textit{thaat} - which are necessary for education in music as well as the exploration of theory. The third facet deals with the linking and simultaneous presentation of these various concepts through user contributions, annotations and translations. In figure \ref{fig:opensystem}, these three facets are explained as 'play', 'read', and 'add'.
+
+Most websites offering self learning of ear training present methods to turn musicianship skills into games and drill exercises using fixed, generated or predetermined stimuli or set of stimuli. In section II. B, we will also present an architecture to expand this selection to picking sound samples from other sources on the web. This feature makes this platform unique as against others.
+
+
+\subsection{Play: Experimenting with musical Concepts}
+
+The first facet of Virtual Lab for HCM is in allowing people to experiment with musical concepts, and to practise and play with music theory. Typically musicianship is developed as a by product of years of practise. In the current model, some students find practice challenging because of not being able to play an instrument, and therefore have reference notes. Initially, it is also harder to formulate a good understanding of taal concepts in practise. There are other musicianship challenges faced by students from time to time, including - knowing what written music sounds like by playing it, learning the right tuning or intonation to fine tune their instruments, learning how to count rhythm and compose their own phrases, and many others. We present a series of experiments that will let users practise these focussed tasks in the form of a game. This ensures that users can practise and get feedback on a machine, and can therefore continue practising for as long as they like.
+
+\begin{marginfigure}
+\centering
+    \includegraphics[width=0.8\textwidth]{expt1.png}
+\caption{Example of an Experiment}
+\label{fig:experiment}
+\end{marginfigure}
+
+An example of the experiment interface can be found in Fig  \ref{fig:experiment}. The system is designed to be able to pose questions in several Indian instruments, making it adapt to the specific needs of the musical system. 
+
+\subsection{Read: Content Aggregation}
+The second feature of this platform is to provide content and repositories for students of music. HCM involves extended musicological and theoretical material that students must learn and know. For this, we need a place where compositions, theoretical instructions and nuances, and source material can be read. We start with a base ontology containing the theoretical structures of HCM. This ontology is derived from authoritative books of music theory \cite{bhatkhande, kramik}. Making this ontology open for navigation and exploration condenses several pages of dry theory into a succinct, interactive interface.
+
+As seen in Figure \ref{fig:onto}, we create a graph for linking and establishing the minute features of the musical categories like ragas, their classification and constituents. This serves as an ontology from which the repositories can be accessed. We populate this resource by opening it for linking with other media on the web or openly adding or uploading other resource material, as explained in section II B.
+  
+  
+\begin{marginfigure}
+\centering
+    \includegraphics[width=0.8\textwidth]{graph.png}
+\caption{Raga Graph - Base Ontology}
+\label{fig:onto}
+\end{marginfigure}
+
+\subsection{Add: Annotation and re-narration of web content}
+
+Music experiment platforms typically use their own midi modules or sound clips in order to generate the testing questions \cite{tambouratzis2008vemus}. This limits the musical material produced by the system to be restricted to just a few musical instruments. Some teaching softwares use scoring support \cite{kuuskankare2010pwgl}, which is not used in the study of HCM. Midi modules support more western instruments rather than indigenous Indian instruments. Open annotation and re-narration solves this problem by allowing a content creator to contextualize a newly uploaded sound file, by providing attributes for it. When the file needs to be sourced to use as a stimulus, it can directly be used by referring to its attributes rather than requiring the data to be stored on to a server while using them in experiments and quizzes. 
+
+Adding musical material and annotating it is also a task that can be performed by  users who may or may not be content creators. This opens the platform to the web in a unique way, described as follows.
+
+\section{Open Linked Data to Connect Music Resources}
+\begin{marginfigure}
+\centering
+    \includegraphics[width=0.8\textwidth]{alipi.png}
+\caption{Diagrammatic representation of the architecture}
+\label{fig:verticalcell}
+\end{marginfigure}
+
+
+Virtual Lab for HCM is designed as a modern HTML5 application, leveraging
+ HTML5 standard APIs so that rich multimedia and interactive content
+can be delivered through an open platform. The architecture of Virtual Lab for HCM can be seen in Fig \ref{fig:verticalcell}. We construct an architecture to use decentralized locations that store messages, through a set of tools that we call the Alipi Tool Suite (ATS). The ATS contains several small tools within it to augment Virtual Lab for HCM and facilitate linking openly available resources on the web. More description of the ATS can be found in \cite{prasad2014overcoming} \cite{dinesh2012alipi}.
+
+ATS uses Semantic Web Tweets or SWTs, which is a way to structure and store decentralized, social semantic web tweets. A SWT  is a small message generated in the process of linking and annotation. The anatomy of a SWT is as follows:
+
+@user \#context /resource {attributes}
+
+It is a structured message that is stored openly on the web. Information is stored in the following way:
+\begin{enumerate}
+\item The author of the SWT (or linking open data),
+\item The context of the SWT,
+\item The URI of the resource,
+\item The attributes provided by the user. Context determines what attributes can be present.
+\end{enumerate}
+
+The ATS tools publish SWTs to a decoupled SWT store, which not only stores but also provides a query interface. The SWT store is queried for the relevant information to be displayed once the user logs in. The application also uses a re-narration service called Alipi hosted at \texttt{http://alipi.us} \cite{alipi}. ATS tools provide the following services that assist the operations of Virtual Lab for HCM:
+\begin{enumerate}
+\item Annotation: This enables a user to add new information to an existing web page.
+\item Translation: This is a direct translation into a different language
+\item Re-narration: This is a narration of existing content to a specific context, such as re-narrating a jargon heavy document into a simple language and so on
+\end{enumerate}
+
+We describe how each of these tools are used as follows: 
+
+\subsection{Audio Annotation tool} 
+\begin{marginfigure}
+\centering
+    \includegraphics[width=0.8\textwidth]{audioanno.png}
+\caption{Architecture of the audio annotation tool}
+\label{fig:annotation}
+\end{marginfigure}
+This is a web-based application which provides an easy
+interface to annotate an audio clip to add musical information to it.
+For example, the user can annotate the stresses in a musical bar, or the
+properties of a musical phrase and so on. This information can be used to query and retrieve phrases which all have the same property. These audio clips can exist anywhere on the web, as long as they are freely and openly available, they can be annotated using this tool. After annotation, the tool sends a SWT containing the annotated information, and the URI of the original resource, and posts it to a SWT store. For example, tabla sound clips from Freesound \cite{akkermans2011freesound} can be used by a content creator to annotate to stresses or rhythm information. As the embedded tool that understands the semantics of the annotation, it can then be used by the Virtual Lab for HCM in a particular drill or quiz. The architecture of this application can be seen in Fig \ref{fig:annotation}.
+
+\subsection{Translations through Alipi} Users can contribute alternate translations of the content in other languages by using the ATS.  To use the service, re-narrators navigate to the Alipi website \cite{alipi}, and request for Virtual Lab for HCM. Then the service fetches the website and present them with an interface through which they can browse it, point-and-click on the content
+to bring up an editor, and contribute alternate narratives
+or translations.
+
+An Alipi widget is integrated with the Virtual Lab for HCM. This widget fetches 
+re-narrations of a particular language, based on user preferences and transform
+the page accordingly. The content creators can recognise a set of authors whose
+re-narrations can be used to provide alternate translations for the Virtual Lab for HCM. This makes translations fast, and easily accessible, and also enables anybody to contribute and share translations as they like.
+
+\subsection{User Annotations / Re-narrations} Another tool in the ATS is the 
+re-story application (\texttt{http://restory.swtr.us}). This service can be used by
+end users to provide alternate narratives and annotations to
+the existing content of the Virtual Lab for HCM. It can also be used to
+link other resources on the web, like videos, audio clips, and
+reading materials, to the existing content of the platform.
+
+
+\subsection{Crowd-sourcing to re-notate compositions} Available compositions in
+Hindustani Music in older textbooks and scripts can be crowd-sourced to
+annotate and re-notate. This re-notations can be added to the repository of
+information in Virtual Lab for HCM. Upon making these compositions searchable, they add to the databases that can be created using musical documented and notated musical material. 
+
+\section{Cultural and Social Innovations of Virtual Lab for HCM}
+The applications of this technology are to specifically address the challenges posed by HCM in the current education system. We explain the challenges of musical education and the ways in which Virtual Lab for HCM addresses them.
+
+\section{Traditional and Modern Pedagogical Methods}
+Some of the challenges faced by a web based music education platform in India pertain to the historical methods of education in HCM, while others have to do with the means of technological usage that are most popular. 
+
+HCM traditionally evolved as an art form requiring years and years of guided practise. Until the twentieth century, students of classical music would spend several years as apprentices studying under the guru's scrutinized guidance, slowly absorbing the intricate nuances of the musical performance from the guru. \cite{neuman} Artists were patronized by princely states and kings and taught students in this system called the \textit{gurukul} system. This started to change towards the end of the 19th century when music reform and education were taken up as a cause by reformists and scholarly musicians of the time \cite{newmansions}. At the time of reform of Indian universities, musical education paradigms changed drastically and musical education was restructured to fit the bounds of a college degree. 
+
+
 
 \paragraph{A 3-Fold Approach to Musical Learning} The
 objective of this lab would be to provide material in the
@@ -182,6 +307,10 @@ perform such practice easily through this lab.
   web for music truly multi-modal and rich.
 
 \end{enumerate}
+
+
+\section{Development so far}
+As a team of 5-6 developers, over the last six months, we have developed 14 unique experiments designed to 
 
 \section{Deliverables}
 The following will be the deliverables for this project:
@@ -284,7 +413,7 @@ Ontology & User Privileges to add \\
 
 \section{Budget and Resources }
 \label{sec-1}
-\subsection{HR}
+\section{HR}
 \label{sec-1-1}
 
 
@@ -305,7 +434,7 @@ Ontology & User Privileges to add \\
 \hline
 \end{tabular}
 \end{center}
-\subsection{Equipment}
+\section{Equipment}
 \label{sec-1-2}
 
 
@@ -327,7 +456,7 @@ Ontology & User Privileges to add \\
 \hline
 \end{tabular}
 \end{center}
-\subsection{Consumables}
+\section{Consumables}
 \label{sec-1-3}
 
 
@@ -339,7 +468,7 @@ Ontology & User Privileges to add \\
 \hline
 \end{tabular}
 \end{center}
-\subsection{Travel}
+\section{Travel}
 \label{sec-1-4}
 
 
@@ -360,7 +489,7 @@ Ontology & User Privileges to add \\
 \hline
 \end{tabular}
 \end{center}
-\subsection{Total}
+\section{Total}
 \label{sec-1-5}
 
 
@@ -397,7 +526,7 @@ This will be the broadest attempt of its kind to fit the missing pieces together
 
 \section{Appendix - Description of Some Concepts Mentioned}
 
-\subsection{Sample Set of Experiments}
+\section{Sample Set of Experiments}
 \paragraph{Expt 1 Pitch discrimination}
 This experiment will focus on students being able to distinguish
 between two pitches that are played consecutively. The students will

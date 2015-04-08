@@ -3,71 +3,59 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Proposal Draft 1.aux
 The style file: plainnat.bst
 Database file #1: sample-handout.bib
-Warning--string name "april" is undefined
---line 21 of file sample-handout.bib
-Warning--string name "april" is undefined
---line 39 of file sample-handout.bib
-Warning--string name "april" is undefined
---line 48 of file sample-handout.bib
-Warning--string name "april" is undefined
---line 56 of file sample-handout.bib
-Repeated entry---line 61 of file sample-handout.bib
- : @book{parrikar
- :               ,
-I'm skipping whatever remains of this entry
-Warning--string name "april" is undefined
---line 72 of file sample-handout.bib
-Warning--string name "april" is undefined
---line 80 of file sample-handout.bib
-Warning--string name "april" is undefined
---line 88 of file sample-handout.bib
+Warning--entry type for "eartr" isn't style-file defined
+--line 51 of file sample-handout.bib
+Warning--empty publisher in sma
 Warning--empty publisher in bhatkhande
 Warning--empty publisher in IMSLP-petrucci
 Warning--empty publisher in smithsonian
 Warning--empty publisher in sra
 Warning--empty publisher in parrikar
 Warning--empty publisher in deepakraja
+Warning--empty publisher in alipi
 Warning--empty publisher in swarganga
 Warning--empty publisher in ncpa
-You've used 13 entries,
+Warning--empty booktitle in openmusictheory
+Warning--empty publisher in openmusictheory
+You've used 26 entries,
             2773 wiz_defined-function locations,
-            648 strings with 6035 characters,
-and the built_in function-call counts, 4176 in all, are:
-= -- 317
-> -- 170
-< -- 13
-+ -- 64
-- -- 51
-* -- 263
-:= -- 684
-add.period$ -- 46
-call.type$ -- 13
-change.case$ -- 43
-chr.to.int$ -- 13
-cite$ -- 34
-duplicate$ -- 261
-empty$ -- 418
-format.name$ -- 66
-if$ -- 854
-int.to.chr$ -- 1
+            714 strings with 8408 characters,
+and the built_in function-call counts, 10991 in all, are:
+= -- 921
+> -- 570
+< -- 29
++ -- 201
+- -- 174
+* -- 783
+:= -- 1683
+add.period$ -- 95
+call.type$ -- 26
+change.case$ -- 120
+chr.to.int$ -- 25
+cite$ -- 64
+duplicate$ -- 602
+empty$ -- 977
+format.name$ -- 210
+if$ -- 2344
+int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 26
-newline$ -- 80
-num.names$ -- 52
-pop$ -- 162
+missing$ -- 41
+newline$ -- 148
+num.names$ -- 104
+pop$ -- 369
 preamble$ -- 1
-purify$ -- 43
+purify$ -- 110
 quote$ -- 0
-skip$ -- 164
+skip$ -- 414
 stack$ -- 0
-substring$ -- 26
-swap$ -- 14
-text.length$ -- 1
+substring$ -- 212
+swap$ -- 99
+text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 78
-warning$ -- 8
-while$ -- 39
+type$ -- 206
+warning$ -- 12
+while$ -- 95
 width$ -- 0
-write$ -- 170
-(There was 1 error message)
+write$ -- 344
+(There were 13 warnings)
